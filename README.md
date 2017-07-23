@@ -1,6 +1,5 @@
 # Traffic-Signal-Emulator
-A python code for a GUI traffic signal emulator
-Traffic Light Simulator:
+A python code for a GUI traffic signal emulator.
 The traffic light simulator simulates traffic signal. The user can put in values for RED, ORANGE, GREEN lights.
 The values have to be integers values. The value entered corresponds to the number of seconds the light needs to run.
 The entire code is written in Python and tkinter(for GUI interface).
